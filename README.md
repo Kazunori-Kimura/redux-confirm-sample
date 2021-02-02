@@ -2,7 +2,7 @@
 
 redux を使ってメッセージダイアログで OK ボタンが押されたら任意の処理を実行するサンプルです
 
-https://github.com/Kazunori-Kimura/redux-confirm-sample
+https://kazunori-kimura.github.io/redux-confirm-sample/
 
 ## action の定義
 

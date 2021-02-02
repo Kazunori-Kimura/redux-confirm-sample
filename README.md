@@ -2,6 +2,8 @@
 
 redux を使ってメッセージダイアログで OK ボタンが押されたら任意の処理を実行するサンプルです
 
+https://github.com/Kazunori-Kimura/redux-confirm-sample
+
 ## action の定義
 
 -   `showMessage`: 確認メッセージを表示する
